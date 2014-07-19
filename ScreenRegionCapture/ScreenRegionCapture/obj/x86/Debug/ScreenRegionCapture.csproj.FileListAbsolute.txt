@@ -1,0 +1,17 @@
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\bin\Debug\ScreenRegionCapture.exe
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\bin\Debug\ScreenRegionCapture.pdb
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.Form1.resources
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.Properties.Resources.resources
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.csproj.GenerateResource.Cache
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.exe
+c:\users\neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.pdb
+C:\Users\Neo\documents\visual studio 2010\Projects\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.csprojResolveAssemblyReference.cache
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.exe
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.pdb
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\bin\Debug\ScreenRegionCapture.exe
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\bin\Debug\ScreenRegionCapture.pdb
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.Form1.resources
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\ScreenRegionCapture.Properties.Resources.resources
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GladysVM\Documents\Visual Studio 2010\Projects\ScreenRegionDemo\ScreenRegionCapture\ScreenRegionCapture\obj\x86\Debug\GenerateResource.write.1.tlog

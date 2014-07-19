@@ -1,0 +1,9 @@
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\bin\Debug\ScreenRegionDemo.exe
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\bin\Debug\ScreenRegionDemo.pdb
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\ScreenRegionDemo.Form1.resources
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\ScreenRegionDemo.Properties.Resources.resources
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\ScreenRegionDemo.exe
+c:\users\gladysvm\documents\visual studio 2010\Projects\ScreenRegionDemo\ScreenRegionDemo\obj\x86\Debug\ScreenRegionDemo.pdb
